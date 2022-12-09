@@ -1,6 +1,6 @@
 # mysql-k8s
 
-# Deploy
+# Deploy
 ```
 git clone https://github.com/kubernetes-spain/mysql-k8s.git
 cd mysql-k8s
