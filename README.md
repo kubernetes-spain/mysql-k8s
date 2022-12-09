@@ -18,3 +18,9 @@ kubectl delete pv mysql-pv-volume
 kubectl delete secret mysql-secret
 ```
 
+```
+kubectl get pod
+kubectl exec --stdin --tty mysql-694d95668d-w7lv5 -- /bin/bash
+mysql -p
+```
+
