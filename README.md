@@ -1,5 +1,5 @@
-# mysql-k8s
-
+# Run mysql in Kubernetes
+ 
 # Deploy
 ```
 git clone https://github.com/kubernetes-spain/mysql-k8s.git
